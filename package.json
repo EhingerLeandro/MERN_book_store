@@ -1,0 +1,14 @@
+{
+  "name": "mern_book_store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "back": " cd backend_store && nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "front": "cd frontend_store && npm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
